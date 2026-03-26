@@ -1,3 +1,9 @@
+<!-- 🔥 Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+I'm+Olika+Tefera;Cloud+Engineer+%7C+DevSecOps+Specialist;AWS+%26+Azure+Expert;Building+Secure+%26+Scalable+Cloud+Solutions" alt="Typing SVG" />
+</p>
+
+
 # 👋 Hi, I'm **Olika Tefera**
 
 💻 **Cloud Engineer | Cloud Security Engineer | DevSecOps Specialist**  
