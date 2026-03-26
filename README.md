@@ -164,11 +164,11 @@ _Western Governors University, Salt Lake City, UT_ (Jan 2019 – Oct 2024)
 
 ## 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/olika-T?cardType=octocat&theme=tokyonight&fontFamily=Ubuntu&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/olika-T?cardType=octocat&theme=radical&fontFamily=Ubuntu&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ### 🏆 GitHub Trophies
 
-![Olika's Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=olika-T&theme=tokyonight)
+![Olika's Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=olika-T&theme=radical)
 
 ### 💬 Random Dev Quote
 
