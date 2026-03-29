@@ -8,7 +8,7 @@
 
 💻 **Cloud Engineer | Cloud Security Engineer | DevSecOps Engineer **  
 📍 Based in Tucker, GA, United States  
-📧 **teferaolika@gmail.com** | 📞 +1 470 854 9441  
+📧 **teferaolika@gmail.com** | 📞 +1 470 854 ----  
 🔗 [LinkedIn](https://www.linkedin.com/in/olika-tefera-cloud-engineer/) | [GitHub](https://github.com/olika-T)
 
 ---
